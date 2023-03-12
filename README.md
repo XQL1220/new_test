@@ -1,2 +1,2 @@
 # new_test
-This is a star.
+This is a star..
